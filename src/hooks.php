@@ -5,7 +5,7 @@ namespace WCF\Animals;
 function flush_rewrite_rules() {
 	// call your CPT registration function here (it should also be hooked into 'init')
 	register_animals_post_type();
-	flush_rewrite_rules();
+	\flush_rewrite_rules();
 }
 
 // Register post types and flush
