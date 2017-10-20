@@ -1,7 +1,7 @@
 {
     "name": "wythenshawe-community-farm/wp-plugin-our-animals",
     "description": "Enables support for Our Animals",
-    "type": "wordpress-theme",
+    "type": "wordpress-plugin",
     "require": {
         "johnpbloch/wordpress-core": "^4.8"
     },
