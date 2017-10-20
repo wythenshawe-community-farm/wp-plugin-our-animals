@@ -1,0 +1,16 @@
+{
+    "name": "wythenshawe-community-farm/wp-plugin-our-animals",
+    "description": "Enables support for Our Animals",
+    "type": "wordpress-theme",
+    "require": {
+        "johnpbloch/wordpress-core": "^4.8"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Toby Griffiths",
+            "email": "toby@cubicmushroom.co.uk"
+        }
+    ],
+    "minimum-stability": "stable"
+}
