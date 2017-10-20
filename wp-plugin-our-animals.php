@@ -8,4 +8,7 @@
  * License: GPL-3.0+
  */
 
+define( 'WCF_OUR_ANIMALS_PLUGIN_FILE', __FILE__ );
+
 require_once __DIR__ . '/src/post-types.php';
+require_once __DIR__ . '/src/hooks.php';
